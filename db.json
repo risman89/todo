@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "task": "Gym",
+      "status": "Todo",
+      "id": 1
+    },
+    {
+      "task": "Latihan",
+      "status": "Progress",
+      "id": 2
+    },
+    {
+      "task": "Belajar",
+      "status": "Todo",
+      "id": 3
+    },
+    {
+      "task": "Aku mau makan",
+      "status": "Todo",
+      "id": 7
+    }
+  ]
+}
